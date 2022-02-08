@@ -18,21 +18,11 @@
 
 ---
 
-**حذف مهمة**
+**شاشة تسجيل مستخدم جديد**
+ 
+![شاشة إنشاء حساب مستخدم جديد](https://user-images.githubusercontent.com/95555310/152951396-6778988f-3c55-49a0-a1f7-d9321e4a4c82.png)
+![رسالة نجاح إنشاء الحساب الجديد](https://user-images.githubusercontent.com/95555310/152951768-2f01d0f5-7873-41d8-80cf-c4f4f38e5eaf.png)
 
-قمت بالبحث عن دالة تسمح بالحذف من الخلية في الجدول مباشرة دون الحاجة إلى إضافة زر للحذف 
-
-![حذف مهمة من الجدول](https://user-images.githubusercontent.com/95555310/145270318-04994fca-b23f-4d79-a596-6a3c0af6cbf9.png)
-
-`func tableView(_ tableView: UITableView, commit editingStyle: UITableViewCell.EditingStyle, forRowAt indexPath: IndexPath) { if editingStyle == UITableViewCell.EditingStyle.delete { confirmationDelet(indexPath: indexPath) } }`
-
-التالي هو كود إظهار إشعار تأكيد عملية الحذف للمستخدم
-
-عندما يقوم المستخدم بتحديد الخلية التي فيها المهمة المراد حذفها وذلك بسحبها لليسار يظهر اشعار بتاكيد عملية الحذف او الغائها، وعند اختيار الحذف تختفي الخلية بتنسيق حركي بطيئ
-
-![إشعار تأكيد الحذف](https://user-images.githubusercontent.com/95555310/145277234-e7b02218-8b9b-4c6e-b3c8-b67d83c7b50b.png)
-
-`func confirmationDelet(indexPath: IndexPath) { let confirmAlert = UIAlertController(title: "تنبيه!", message: "هل ترغب بتأكيد الحذف؟", preferredStyle: .alert) let confirmAction = UIAlertAction(title: "تأكيد الحذف", style: .destructive) { _ in self.todosArray.remove(at: indexPath.row) self.todosTableView.deleteRows(at: [indexPath], with: .fade) self.delete(index: indexPath.row) self.todosTableView.reloadData() } confirmAlert.addAction(confirmAction) confirmAlert.addAction(UIAlertAction(title: "إلغاء", style: .cancel, handler: nil)) present(confirmAlert, animated: true, completion: nil) }`
 
 ---
 
