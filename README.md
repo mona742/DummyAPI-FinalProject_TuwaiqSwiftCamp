@@ -26,19 +26,13 @@
 
 ---
 
-**تعديل مهمة**
+**الشاشة الرئيسية للمستخدم الذي سجل الدخول**
 
-![تعديل مهمة](https://user-images.githubusercontent.com/95555310/145277547-09d121f1-1d13-4340-9167-70df41aa939b.png)
+![الصفحة الرئيسية بتسجيل دخول المستخدم](https://user-images.githubusercontent.com/95555310/152955846-f811e545-ceed-4144-ab2e-8aadea112aad.png)
 
 ---
-**في شاشة تعديل المهمة كان ال NavBar لا يظهر باللون المطلوب، بحثت عن دالة لتغييره عند الضغط على زر تعديل**
-
-![تعديل مهمة-عدم ظهور لونNavBar](https://user-images.githubusercontent.com/95555310/145274578-d0d56a3c-25b1-4d44-8745-16a86a4dbdbc.png)
-
-`navigationController?.navigationBar.barTintColor = UIColor.systemGreen`
-قمت بإضافة هذا الكود في دالة DidLoad داخل NewTodoVC
-
-![تعديل مهمة-إضافة لون للNavBar](https://user-images.githubusercontent.com/95555310/145274819-e0b3817e-5788-437c-898f-0f13507ef065.png)
+**شاشة استعراض بيانات منشئ التغريدة**
+![شاشة استعراض بيانات منشئ التغريدة](https://user-images.githubusercontent.com/95555310/152956169-a5e904c1-c133-4456-ace0-b3277991b925.png)
 
 ---
 
