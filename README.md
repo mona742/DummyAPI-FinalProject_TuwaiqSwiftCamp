@@ -6,15 +6,15 @@
 ---
 
 **شاشة بدء التطبيق**
+
 ![شاشة بدء التطبيق](https://user-images.githubusercontent.com/95555310/152950284-15b66273-4442-4657-adca-ef22c700df94.png)
 
 
 ---
-**إضافة مهمة جديدة**
+**شاشة تسجيل الدخول**
 
-![إضافة مهمة جديدة](https://user-images.githubusercontent.com/95555310/145277001-8ab8d02e-5555-4dd5-8b5e-ad24e349d47b.png)
+![شاشة تسجيل الدخول](https://user-images.githubusercontent.com/95555310/152950952-86f57191-5a95-46d1-adb3-c5b5020ef81a.png)
 
-![إضافة مهمة جديدة مع الإشعار](https://user-images.githubusercontent.com/95555310/145277025-a469c04d-4f45-4c77-9b03-fe59bc52cb53.png)
 
 ---
 
