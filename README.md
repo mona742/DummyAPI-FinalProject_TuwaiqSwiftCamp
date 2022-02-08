@@ -6,6 +6,7 @@
 ---
 
 **شاشة بدء التطبيق**
+![شاشة بدء التطبيق](https://user-images.githubusercontent.com/95555310/152950284-15b66273-4442-4657-adca-ef22c700df94.png)
 
 
 ---
