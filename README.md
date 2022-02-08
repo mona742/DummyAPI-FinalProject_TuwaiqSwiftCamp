@@ -5,6 +5,18 @@
 
 ---
 
+#### تم تقسيم المشروع بحسب هيكلة الMVC
+
+![MVC-part1](https://user-images.githubusercontent.com/95555310/152971389-147166db-745c-446b-88c8-a65c1a3f18a6.png)
+![MVC-part2](https://user-images.githubusercontent.com/95555310/152971425-e6afdcec-cd26-4672-88d9-4832a69bc7d5.png)
+
+---
+
+#### تم استخدام المكتبات المساعدة للـ API وهي: Alamofire, SwiftyJSON
+#### تم استخدام المكتبات المساعدة في تحسين تجربة المستخدم وهي: IQKeyboardManagerSwift، NVActivityIndicatorView
+
+---
+
 **شاشة بدء التطبيق**
 
 ![شاشة بدء التطبيق](https://user-images.githubusercontent.com/95555310/152950284-15b66273-4442-4657-adca-ef22c700df94.png)
@@ -87,5 +99,3 @@
 ![شاشة اوسم المعين](https://user-images.githubusercontent.com/95555310/152968722-e39b1180-2db7-4596-988b-382f3c9545da.png)
 
 ---
-
-#### تم تقسيم المشروع بحسب هيكلة الMVC
