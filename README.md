@@ -40,6 +40,15 @@
 **شاشة عرض تفاصيل التغريدة والسماح بإضافة تعليق**
 
 ![شاشة تفاصيل التغريدة مع التعليقات](https://user-images.githubusercontent.com/95555310/152956801-edd86ba7-b5d9-4265-bfbe-a3f31eeaa998.png)
+![إضافة تعليق](https://user-images.githubusercontent.com/95555310/152957887-b41b5ace-4ed9-4182-b547-d138dfce517b.png)
+![نجاح إضافة تعليق](https://user-images.githubusercontent.com/95555310/152957475-df343b24-d005-49e7-9086-c76345098a6a.png)
+
+---
+
+**شاشة الوسم والدخول على جميع التغريدات تحت وسم محدد**
+
+![شاشة الوسم](https://user-images.githubusercontent.com/95555310/152958446-fb0c2466-e284-4c5a-9fef-dbd42970c0dc.png)
+![شاشة التغريدات باختيار وسم محدد](https://user-images.githubusercontent.com/95555310/152958506-ac3eab67-307c-4ce3-87c8-ea3e336caa6b.png)
 
 ---
 
